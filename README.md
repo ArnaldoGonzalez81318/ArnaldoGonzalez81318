@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **HTML, CSS, JS, TS, ReactJS, NodeJS, Express**
 
-- 📄 Know about my experiences [https://agonzalezcv.netlify.app/](https://agonzalezcv.netlify.app)
+- 📄 Know about my experiences [https://agonzalezcv.netlify.app](https://agonzalezcv.netlify.app)
 
 - ⚡ Fun fact **Watch anime**
 
