@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Arnaldo Gonzalez.</h1>
 <h3 align="center">A passionate Full Stack Software Developer from United States 🇺🇸</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arnaldogonzalez81318&label=Profile%20views&color=0e75b6&style=flat" alt="arnaldogonzalez81318" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=arnaldogonzalez81318&label=Profile%20views&color=0e75b6&style=flat" alt="arnaldogonzalez81318" />
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arnaldogonzalez81318" alt="arnaldogonzalez81318" /></a> </p>
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arnaldogonzalez81318" alt="arnaldogonzalez81318" /></a>
+</p>
 
 - 🔭 I’m currently working on **Some personal projects**
 
@@ -114,7 +118,7 @@
     <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
   </a>
   <a href="https://unrealengine.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/unrealengine/unrealengine-icon.svg" alt="unreal" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/>
   </a>
 </p>
 
