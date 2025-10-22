@@ -1,6 +1,6 @@
 # Hi 👋, I'm Arnaldo González
 
-## � Full Stack Developer · Modern Design Enthusiast
+## Full Stack Developer · Modern Design Enthusiast · Game Dev Explorer
 
 ![Tailwind Hero](https://capsule-render.vercel.app/api?type=venom&height=200&text=Arnaldo%20González&fontSize=48&color=0:3b82f6,50:8b5cf6,100:06b6d4&fontColor=ffffff&stroke=ffffff&strokeWidth=2&animation=twinkling&fontAlignY=35&descAlign=50&descAlignY=55&desc=Crafting%20Digital%20Experiences%20with%20Modern%20Web%20Technologies&alt=Hero%20Banner)
 
@@ -17,7 +17,7 @@ const developer = {
   currentFocus: ["C#", "Unity", "Unreal Engine"],
   philosophy: "Form follows function, but both should be beautiful",
   hobbies: ["UI/UX Design", "Anime", "Technology Trends"],
-  
+
   getContact: () => ({
     portfolio: "https://agonzalez.netlify.app",
     resume: "https://agonzalezcv.netlify.app",
@@ -28,7 +28,7 @@ const developer = {
 
 ---
 
-## � Quick Connect
+## 📫 Connect with Me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-gradient(to_r,_from_blue_500_to_purple_600)?style=for-the-badge&logo=vercel&logoColor=white&color=4f46e5)](https://agonzalez.netlify.app)
 [![Resume](https://img.shields.io/badge/Resume-gradient(to_r,_from_emerald_500_to_teal_600)?style=for-the-badge&logo=document-text&logoColor=white&color=059669)](https://agonzalezcv.netlify.app)
@@ -48,7 +48,7 @@ const developer = {
 
 ---
 
-## �️ Technology Stack
+## 🛠️ Tech Stack
 
 ### Frontend Development
 
@@ -103,18 +103,19 @@ const developer = {
   @apply space-y-3 font-mono text-sm;
 }
 
-TypeScript    ███████████████████████████████████████████ 85.2%
+TypeScript    ██████████████████████████████████████████ 85.2%
 JavaScript    ███████████████████████████████████████░░░░ 78.4%
+HTML          ████████████████████████████████████░░░░░░ 72.5%
 CSS/SCSS      ███████████████████████████████░░░░░░░░░░░░░ 65.7%
-Python        ████████████████████████░░░░░░░░░░░░░░░░░░░░ 48.3%
-Go            ████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 32.1%
-Rust          ██████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 18.9%
+C#            ████████████████████████░░░░░░░░░░░░░░░░░░░░ 60.0%
+MongoDB       ██████████████████████████████████████████ 95.3%
+Ruby          ██████████████████████░░░░░░░░░░░░░░░░░░░░ 55.0%
 ```
 
 ### Recent Activity
 
 - 🔥 **50+** commits this month
-- 🚀 **15** repositories actively maintained  
+- 🚀 **15** repositories actively maintained
 - 💡 **8** new features shipped
 - 🐛 **23** issues resolved
 - ⭐ **127** stars earned across projects
@@ -124,7 +125,7 @@ Rust          ██████████░░░░░░░░░░░░
 ## 🎯 Current Focus Areas
 
 ```yaml
-Learning: 
+Learning:
   - Unity Game Development
   - Unreal Engine C++
   - Advanced TypeScript Patterns
@@ -132,7 +133,7 @@ Learning:
 
 Building:
   - Personal Portfolio v3.0
-  - Open Source Component Library  
+  - Open Source Component Library
   - Game Development Projects
   - Technical Blog Platform
 
