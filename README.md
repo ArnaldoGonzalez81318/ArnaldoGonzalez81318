@@ -40,7 +40,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=arnaldogonzalez81318&show_icons=true&hide_border=true&title_color=2563eb&text_color=475569&icon_color=7c3aed&bg_color=00000000&border_radius=12&card_width=420" alt="GitHub stats" loading="lazy" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnaldogonzalez81318&layout=compact&hide_border=true&title_color=2563eb&text_color=475569&bg_color=00000000&border_radius=12&card_width=420" alt="Top languages" loading="lazy" />
-  <img src="https://streak-stats.demolab.com/?user=arnaldogonzalez81318&theme=transparent&hide_border=true&border_radius=12&date_format=M%20j%5B%2C%20Y%5D&background=00000000&stroke=2563eb&ring=7c3aed&fire=14b8a6&currStreakLabel=475569&sideLabels=475569&currStreakNum=2563eb&sideNums=475569&dates=475569" alt="GitHub streak" loading="lazy" />
+  <img src="https://streak-stats.vercel.app/?user=arnaldogonzalez81318&theme=transparent&hide_border=true&border_radius=12&date_format=M%20j%5B%2C%20Y%5D&background=00000000&stroke=2563eb&ring=7c3aed&fire=14b8a6&currStreakLabel=475569&sideLabels=475569&currStreakNum=2563eb&sideNums=475569&dates=475569" alt="GitHub streak" loading="lazy" />
 </div>
 
 ## Currently Exploring
